@@ -1,0 +1,13 @@
+UniProtId	UniProtId	UniProtId	UniProtId	UniProtId	UniProtId
+DPOD1_HUMAN	PolD1	Polymerase	Nucleus	+	DNA polymerase delta catalytic subunit
+DPOD2_HUMAN	PolD2	Polymerase	Nucleus	+	DNA polymerase delta subunit 2
+DPOD3_HUMAN	PolD3	Polymerase	Nucleus	-	DNA polymerase delta subunit 3
+DPOD4_HUMAN	PolD4	Polymerase	Nucleus	-	DNA polymerase delta subunit 4
+BACD1_HUMAN	PDIP1	Uncertain	Nucleus		
+DNA2L_HUMAN	DNA2	Helicase	Nucleus, Mitochondrion		
+PDIP2_HUMAN		Uncertain			
+PRI1_HUMAN		Primase			
+PRI2_HUMAN		Primase	Nucleoplasm		
+S7A6O_HUMAN		Uncertain			
+TREX2_HUMAN		DNA repair			
+WRIP1_HUMAN		DNA repair			

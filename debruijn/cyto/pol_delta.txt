@@ -1,0 +1,5 @@
+UniProtId GeneID Cat Description
+DPOD1_HUMAN PolD1 yes DNA_polymerase_delta_catalytic_subunit_1
+DPOD2_HUMAN PolD2 no DNA_polymerase_delta_subunit_2
+DPOD3_HUMAN PolD3 no DNA_polymerase_delta_subunit_3
+DPOD4_HUMAN PolD4 no DNA_polymerase_delta_subunit_4
